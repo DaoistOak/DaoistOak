@@ -8,12 +8,8 @@
 <br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true&theme=dark&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299"
     media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true" />
 </picture>
