@@ -1,4 +1,4 @@
-<img align="right" src"https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDaoistOak%2FDaoistOak%2FREADME.md&label=Visitors&countColor=%23263759" />
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDaoistOak%2FDaoistOak%2FREADME.md&label=Visitors&countColor=%23263759&labelStyle=upper)
 ### Note To Self
 ### Make an Attractive Readme!
 
