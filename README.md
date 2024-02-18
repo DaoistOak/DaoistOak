@@ -6,8 +6,7 @@
 </h1>
 <h3 align="center">A new and learning Programmer</h3>
 <br>
-<img alt="my stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true&theme=dark&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
-<img alt="my top languages" align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoistOak&layout=donut-vertical&theme=dark&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
+<img alt="my stats" align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true&theme=dark&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" /><img alt="my top languages" align="center" width="47%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoistOak&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
 <!--
 **DaoistOak/DaoistOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
