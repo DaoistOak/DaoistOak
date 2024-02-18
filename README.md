@@ -4,8 +4,9 @@
 <h1 align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BD%F0%9F%98%8A;I'm+DreamingOak..." alt="Typing SVG" /></a>
 </h1>
-
-
+<h3 align="center">A new and learning Programmer</h3>
+<br>
+[![DreamingOak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoistOak)](https://github.com/DaoistOak/github-readme-stats)
 <!--
 **DaoistOak/DaoistOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
