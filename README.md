@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDaoistOak%2FDaoistOak%2FREADME.md&label=Visitors&countColor=%23263759&labelStyle=upper)
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+👋🏽😊;I'm+Daoist+Oak...)](https://git.io/typing-svg)
+<h1>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BD%F0%9F%98%8A;I'm+DreamingOak..." alt="Typing SVG" /></a>
 </h1>
 ### Just a up and learning programmer.
 
