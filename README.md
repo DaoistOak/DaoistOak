@@ -1,4 +1,5 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDaoistOak%2FDaoistOak%2FREADME.md&label=Visitors&countColor=%23263759&labelStyle=upper)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+👋🏽😊;I'm+Daoist+Oak)](https://git.io/typing-svg)
 ### Note To Self
 ### Make an Attractive Readme!
 
