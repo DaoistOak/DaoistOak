@@ -1,7 +1,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDaoistOak%2FDaoistOak%2FREADME.md&label=Visitors&countColor=%23263759&labelStyle=upper)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+👋🏽😊;I'm+Daoist+Oak)](https://git.io/typing-svg)
-### Note To Self
-### Make an Attractive Readme!
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+👋🏽😊;I'm+Daoist+Oak...)](https://git.io/typing-svg)
+</h1>
+### Just a up and learning programmer.
+
 
 <!--
 **DaoistOak/DaoistOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
