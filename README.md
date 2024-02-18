@@ -12,6 +12,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DaoistOak&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoistOak&layout=donut-vertical" />
 </picture>
 <!--
 **DaoistOak/DaoistOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
