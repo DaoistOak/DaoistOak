@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DaoistOak&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DaoistOak&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
