@@ -46,11 +46,10 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DaoistOak&theme=midnight-purple&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaoistOak&theme=midnight-purple&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoistOak&theme=midnight-purple&hide_border=true&layout=compact&count_private=true&include_all_commits=true)
+| | |
+|:-:|:-:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=DaoistOak&theme=midnight-purple&hide_border=true&show_icons=true&count_private=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaoistOak&theme=midnight-purple&hide_border=true) |
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoistOak&theme=midnight-purple&hide_border=true&layout=compact&count_private=true&include_all_commits=true) | |
 
 </div>
 
